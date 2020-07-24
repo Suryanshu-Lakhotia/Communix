@@ -22,9 +22,14 @@ To help people with disabilities communicate with ease. Provide
 
 ### Screenshots
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
+[image1]: .Communix/Images/Screenshot (5).png
 ![Sample Output][image1]
-
+[image2]: .Communix/Images/Screenshot (6).png
+![Sample Output][image2]
+[image3]: .Communix/Images/Screenshot (7).png
+![Sample Output][image3]
+[image4]: .Communix/Images/Screenshot (8).png
+![Sample Output][image4]
 
 ## Project Instructions
 
