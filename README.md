@@ -3,7 +3,7 @@
 
 ### Purpose 
 
-To help people with disabilities communicate with ease. Provide
+To help deaf and mute people communicate with ease. Eliminate need to pen down notes in meetings.
 
 ### Problem
 
@@ -24,12 +24,9 @@ To help people with disabilities communicate with ease. Provide
 
 [image1]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(5).png
 ![Sample Output][image1]
-[image2]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(6).png
-![Sample Output1][image2]
-[image3]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(7).png
-![Sample Output2][image3]
-[image4]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(8).png
-![Sample Output3][image4]
+[image1]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(5).png
+![Sample Output][image1]
+
 
 ## Project Instructions
 
