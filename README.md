@@ -24,11 +24,11 @@ To help people with disabilities communicate with ease. Provide
 
 [image1]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(5).png
 ![Sample Output][image1]
-[image2]: .Communix/Images/Screenshot (6).png
+[image2]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(6).png
 ![Sample Output][image2]
-[image3]: .Communix/Images/Screenshot (7).png
+[image3]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(7).png
 ![Sample Output][image3]
-[image4]: .Communix/Images/Screenshot (8).png
+[image4]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(8).png
 ![Sample Output][image4]
 
 ## Project Instructions
