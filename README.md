@@ -22,7 +22,7 @@ To help people with disabilities communicate with ease. Provide
 
 ### Screenshots
 
-[image1]: .Communix/Images/Screenshot (5).png
+[image1]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(5).png
 ![Sample Output][image1]
 [image2]: .Communix/Images/Screenshot (6).png
 ![Sample Output][image2]
