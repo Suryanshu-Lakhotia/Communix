@@ -23,9 +23,13 @@ To help deaf and mute people communicate with ease. Eliminate need to pen down n
 ### Screenshots
 
 [image1]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(5).png
+[image2]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(6).png
+[image3]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(7).png
+[image4]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(8).png
 ![Sample Output][image1]
-[image1]:https://github.com/Suryanshu-Lakhotia/Communix/blob/master/Images/Screenshot%20(5).png
-![Sample Output][image1]
+![Sample Output1][image2]
+![Sample Output2][image3]
+![Sample Output3][image4]
 
 
 ## Project Instructions
